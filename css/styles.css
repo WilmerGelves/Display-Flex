@@ -37,12 +37,12 @@ section{
 }
 
 .tarjeta{
-    margin-bottom: 1em;
     text-align: center;
-    border: 3px solid rgb(145, 144, 144);
+    border: 2px solid rgb(145, 144, 144);
     border-radius: .5em;
     padding: .3em;
-    margin: .8em;
+    margin: 1em;
+    width: 15vw;
 }
 
 .tarjeta:hover{
@@ -50,10 +50,12 @@ section{
 }
 .texto{
     padding: .5em;
-    font-size: 1em;
+    font-size: 1.2vw;
 }
 img{
-    width: 20.417vw;
+    width: 10vw;
+    border-bottom-left-radius: .5em;
+    border-bottom-right-radius: .5em;
 }
 
 
